@@ -1,5 +1,6 @@
 {
-  "name": "narrativai",
+  "name": "narrativ-ai",
+  "version": "1.0.0",
   "description": "A serverless chat app using Vercel and Tailwind CSS",
   "scripts": {
     "dev": "next dev",
