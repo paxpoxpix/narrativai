@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
 import ChatMessage from "../components/ChatMessage";
 import ExportModal from "../components/ExportModal";
-import { sendMessage } from "../utils/api";
+import { sendMessage } from "/vercel/path0/utils/api";
 
 const Home = () => {
   const [characters, setCharacters] = useState([]);
