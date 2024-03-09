@@ -1,6 +1,7 @@
 {
   "name": "narrativ-ai",
   "version": "1.0.0",
+  "description": "A serverless chat app using Vercel and Tailwind CSS",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.2.1"
+    "@google/generative-ai": "^0.2.1",
     "@vercel/edge": "^0.1.0",
     "next": "^12.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0" 
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
